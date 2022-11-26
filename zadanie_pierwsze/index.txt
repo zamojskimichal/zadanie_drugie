@@ -1,2 +1,3 @@
 Hello World
 jest git
+te linijke dodałem na github
